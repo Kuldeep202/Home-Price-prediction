@@ -1,9 +1,14 @@
 # Home-Price-prediction
 Required Import Libraries for Your House Prediction Model
+
 Flask==2.0.1
+
 flask-cors==3.1.1
+
 numpy==1.21.0
+
 scikit-learn==0.24.2
+
 pandas==1.3.0
 
 # Overview:
