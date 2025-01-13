@@ -23,5 +23,7 @@ columns.json: Feature column names.
 # Key Steps:
 
 Data Preprocessing: Handle missing values, outliers, and feature engineering.
+
 Model: Linear Regression for predicting house prices.
+
 Prediction API: Flask-based API to predict price based on user input.
